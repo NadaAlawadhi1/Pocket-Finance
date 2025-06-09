@@ -51,6 +51,8 @@ Today's total (resets daily with a fresh list)
 
 📅 View only today’s activity, or choose a specific date to review past records
 
+👋 Onboarding screen appears only on first launch
+
 🎨 Clean, intuitive, and responsive UI with light and dark mode
 
 💾 Data stored locally using Hive or Sqflite
