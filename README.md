@@ -1,16 +1,27 @@
-# test_app
+💰 Finance Tracker App
+The Finance Tracker app is your essential tool for managing and reviewing your financial activities. Designed for simplicity and efficiency, it helps you stay on top of your income (add) and expenses (minus) so you always have a clear understanding of your financial landscape.
 
-A new Flutter project.
+📱 Screenshots
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="finance%20screens/1.png" width="120" alt="Finance App Screenshot 1" />
+  <img src="finance%20screens/2.png" width="120" alt="Finance App Screenshot 2" />
+  <img src="finance%20screens/3.png" width="120" alt="Finance App Screenshot 3" />
+  <img src="finance%20screens/4.png" width="120" alt="Finance App Screenshot 4" />
+</p>
+<p align="center">
+  <img src="finance%20screens/5.png" width="120" alt="Finance App Screenshot 5" />
+  <img src="finance%20screens/6.png" width="120" alt="Finance App Screenshot 6" />
+  <img src="finance%20screens/7.png" width="120" alt="Finance App Screenshot 7" />
+  <img src="finance%20screens/8.png" width="120" alt="Finance App Screenshot 8" />
+</p>
+<p align="center">
+  <img src="finance%20screens/9.png" width="120" alt="Finance App Screenshot 9" />
+  <img src="finance%20screens/10.png" width="120" alt="Finance App Screenshot 10" />
+  <img src="finance%20screens/11.png" width="120" alt="Finance App Screenshot 11" />
+  <img src="finance%20screens/12.png" width="120" alt="Finance App Screenshot 12" />
+</p>
+<p align="center">
+  <img src="finance%20screens/13.png" width="120" alt="Finance App Screenshot 13" />
+  <img src="finance%20screens/14.png" width="120" alt="F
