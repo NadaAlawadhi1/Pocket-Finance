@@ -63,3 +63,6 @@ ____________________________
 💻 Dart — The programming language used for logic and structure
 
 💾 Local Storage — Hive
+____________________
+📝 Note
+📛 The app's display name has been changed to محفظة مالية for localization and better user relevance.
