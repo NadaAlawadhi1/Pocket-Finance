@@ -55,7 +55,7 @@ Today's total (resets daily with a fresh list)
 
 💾 Data stored locally using Hive or Sqflite
 
-
+____________________________
 🛠️ Built With
 🧩 Flutter — For building the cross-platform mobile UI
 
