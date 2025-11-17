@@ -3,6 +3,7 @@
 The **Finance Tracker App** is your essential tool for managing and reviewing financial activities.  
 Designed for simplicity and efficiency, it helps you track **income (+)** and **expenses (−)**, giving you a clear view of your financial landscape.  
 
+⚠️ **Note:** The app's display name has been changed to **محفظة مالية** for localization and better user relevance.
 
 ---
 
@@ -48,7 +49,7 @@ Designed for simplicity and efficiency, it helps you track **income (+)** and **
 - 📝 Add, edit, and delete financial entries easily  
 - 📅 Filter to view only today's activity or select a specific date  
 - 👋 Onboarding screen shown only on first launch  
-- 🎨 Clean, intuitive, and responsive UI with light and dark modes  
+- 🎨 **Light & Dark mode support** with clean, intuitive, and responsive UI  
 - 💾 Data stored locally using **Hive** or **Sqflite**  
 
 ---
