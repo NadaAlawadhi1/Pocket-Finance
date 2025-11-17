@@ -3,7 +3,6 @@
 The **Finance Tracker App** is your essential tool for managing and reviewing financial activities.  
 Designed for simplicity and efficiency, it helps you track **income (+)** and **expenses (−)**, giving you a clear view of your financial landscape.  
 
-⚠️ **Note:** The app's display name has been changed to **محفظة مالية** for localization and better user relevance.
 
 ---
 
