@@ -45,4 +45,17 @@ Designed for simplicity and efficiency, it helps you track **income (+)** and **
 - ➕🔢 Automatically calculates totals:
   - Full balance  
   - Today's total (resets daily)  
-- 🗓️ View
+- 🗓️ View transaction history by day, week, or month  
+- 📝 Add, edit, and delete financial entries easily  
+- 📅 Filter to view only today's activity or select a specific date  
+- 👋 Onboarding screen shown only on first launch  
+- 🎨 Clean, intuitive, and responsive UI with light and dark modes  
+- 💾 Data stored locally using **Hive** or **Sqflite**  
+
+---
+
+## 🛠️ Built With
+- **Flutter** 🧩 — Cross-platform mobile UI  
+- **Dart** 💻 — Programming language for logic and structure  
+- **Local Storage** 💾 — Hive  
+
