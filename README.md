@@ -50,7 +50,7 @@ Designed for simplicity and efficiency, it helps you track **income (+)** and **
 - 📅 Filter to view only today's activity or select a specific date  
 - 👋 Onboarding screen shown only on first launch  
 - 🎨 **Light & Dark mode support** with clean, intuitive, and responsive UI  
-- 💾 Data stored locally using **Hive** or **Sqflite**  
+- 💾 Data stored locally using **Hive** 
 
 ---
 
